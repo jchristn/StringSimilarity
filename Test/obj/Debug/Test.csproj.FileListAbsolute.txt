@@ -1,0 +1,8 @@
+d:\code\misc\StringSimilarity\Test\bin\Debug\Test.exe.config
+d:\code\misc\StringSimilarity\Test\bin\Debug\Test.exe
+d:\code\misc\StringSimilarity\Test\bin\Debug\Test.pdb
+d:\code\misc\StringSimilarity\Test\bin\Debug\StringSimilarity.dll
+d:\code\misc\StringSimilarity\Test\bin\Debug\StringSimilarity.pdb
+d:\code\misc\StringSimilarity\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+d:\code\misc\StringSimilarity\Test\obj\Debug\Test.exe
+d:\code\misc\StringSimilarity\Test\obj\Debug\Test.pdb
