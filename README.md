@@ -2,7 +2,7 @@
 
 [![][nuget-img]][nuget]
 
-[nuget]:     https://www.nuget.org/packages/StringSimilarity.dll
+[nuget]:     https://www.nuget.org/packages/StringSimilarity
 [nuget-img]: https://badge.fury.io/nu/Object.svg
 
 ## Simple US-English String Similarity Score Calculator
