@@ -1,0 +1,8 @@
+C:\code\misc\StringSimilarity\StringSimilarity\bin\Debug\netstandard2.0\StringSimilarity.deps.json
+C:\code\misc\StringSimilarity\StringSimilarity\bin\Debug\netstandard2.0\StringSimilarity.dll
+C:\code\misc\StringSimilarity\StringSimilarity\bin\Debug\netstandard2.0\StringSimilarity.pdb
+C:\code\misc\StringSimilarity\StringSimilarity\obj\Debug\netstandard2.0\StringSimilarity.csproj.CoreCompileInputs.cache
+C:\code\misc\StringSimilarity\StringSimilarity\obj\Debug\netstandard2.0\StringSimilarity.AssemblyInfoInputs.cache
+C:\code\misc\StringSimilarity\StringSimilarity\obj\Debug\netstandard2.0\StringSimilarity.AssemblyInfo.cs
+C:\code\misc\StringSimilarity\StringSimilarity\obj\Debug\netstandard2.0\StringSimilarity.dll
+C:\code\misc\StringSimilarity\StringSimilarity\obj\Debug\netstandard2.0\StringSimilarity.pdb

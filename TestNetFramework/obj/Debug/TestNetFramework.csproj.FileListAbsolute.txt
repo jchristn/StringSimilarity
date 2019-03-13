@@ -1,0 +1,10 @@
+C:\code\misc\StringSimilarity\TestNetFramework\bin\Debug\Test.exe.config
+C:\code\misc\StringSimilarity\TestNetFramework\bin\Debug\Test.exe
+C:\code\misc\StringSimilarity\TestNetFramework\bin\Debug\Test.pdb
+C:\code\misc\StringSimilarity\TestNetFramework\bin\Debug\StringSimilarity.dll
+C:\code\misc\StringSimilarity\TestNetFramework\bin\Debug\StringSimilarity.pdb
+C:\code\misc\StringSimilarity\TestNetFramework\obj\Debug\TestNetFramework.csprojAssemblyReference.cache
+C:\code\misc\StringSimilarity\TestNetFramework\obj\Debug\TestNetFramework.csproj.CoreCompileInputs.cache
+C:\code\misc\StringSimilarity\TestNetFramework\obj\Debug\TestNetFramework.csproj.CopyComplete
+C:\code\misc\StringSimilarity\TestNetFramework\obj\Debug\Test.exe
+C:\code\misc\StringSimilarity\TestNetFramework\obj\Debug\Test.pdb

@@ -1,21 +1,21 @@
 ﻿# StringSimilarity
 
+This class library calculates a score from 0 to 1 based on the similarity of two supplied strings.
+
+Effective v1.0.1, StringSimilarity is now targeted to both .NET Core 2.0 and .NET Framework 4.5.2.
+
 [![][nuget-img]][nuget]
 
 [nuget]:     https://www.nuget.org/packages/StringSimilarity
 [nuget-img]: https://badge.fury.io/nu/Object.svg
-
-## Simple US-English String Similarity Score Calculator
-
-This class library calculates a score from 0 to 1 based on the similarity of two supplied strings.
-
+ 
 ## Help or Feedback
 
-First things first - do you need help or have feedback?  Contact me at joel at maraudersoftware.com dot com or file an issue here!
+First things first - do you need help or have feedback?  Contact me at joel dot christner at gmail dot com or file an issue here!
 
-## New in v1.0.0
+## New in v1.0.1
 
-- First release
+- Retarget to .NET Core 2.0 and .NET Framework 4.5.2
  
 ## Score Computation
 

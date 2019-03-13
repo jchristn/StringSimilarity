@@ -1,5 +1,0 @@
-d:\code\misc\StringSimilarity\StringSimilarity\obj\Debug\StringSimilarity.csprojResolveAssemblyReference.cache
-d:\code\misc\StringSimilarity\StringSimilarity\bin\Debug\StringSimilarity.dll
-d:\code\misc\StringSimilarity\StringSimilarity\bin\Debug\StringSimilarity.pdb
-d:\code\misc\StringSimilarity\StringSimilarity\obj\Debug\StringSimilarity.dll
-d:\code\misc\StringSimilarity\StringSimilarity\obj\Debug\StringSimilarity.pdb

@@ -1,0 +1,8 @@
+C:\code\misc\StringSimilarity\StringSimilarity\bin\Release\net452\StringSimilarity.dll
+C:\code\misc\StringSimilarity\StringSimilarity\bin\Release\net452\StringSimilarity.pdb
+C:\code\misc\StringSimilarity\StringSimilarity\obj\Release\net452\StringSimilarity.csprojAssemblyReference.cache
+C:\code\misc\StringSimilarity\StringSimilarity\obj\Release\net452\StringSimilarity.csproj.CoreCompileInputs.cache
+C:\code\misc\StringSimilarity\StringSimilarity\obj\Release\net452\StringSimilarity.AssemblyInfoInputs.cache
+C:\code\misc\StringSimilarity\StringSimilarity\obj\Release\net452\StringSimilarity.AssemblyInfo.cs
+C:\code\misc\StringSimilarity\StringSimilarity\obj\Release\net452\StringSimilarity.dll
+C:\code\misc\StringSimilarity\StringSimilarity\obj\Release\net452\StringSimilarity.pdb

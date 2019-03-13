@@ -1,4 +1,0 @@
-d:\code\misc\StringSimilarity\StringSimilarity\bin\Release\StringSimilarity.dll
-d:\code\misc\StringSimilarity\StringSimilarity\bin\Release\StringSimilarity.pdb
-d:\code\misc\StringSimilarity\StringSimilarity\obj\Release\StringSimilarity.dll
-d:\code\misc\StringSimilarity\StringSimilarity\obj\Release\StringSimilarity.pdb
