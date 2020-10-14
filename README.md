@@ -26,9 +26,9 @@ First things first - do you need help or have feedback?  Contact me at joel dot 
 ## Example
 
 Refer to the Test project for an example.
-```
+```csharp
 using Similarity;
-...
+
 Console.Write("String 1 : ");
 string str1 = Console.ReadLine(); 
 Console.Write("String 2 : ");
