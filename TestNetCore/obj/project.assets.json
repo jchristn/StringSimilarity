@@ -208,7 +208,7 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "StringSimilarity/1.0.1": {
+      "StringSimilarity/1.0.2": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
@@ -689,7 +689,7 @@
         "netstandard.library.nuspec"
       ]
     },
-    "StringSimilarity/1.0.1": {
+    "StringSimilarity/1.0.2": {
       "type": "project",
       "path": "../StringSimilarity/StringSimilarity.csproj",
       "msbuildProject": "../StringSimilarity/StringSimilarity.csproj"
@@ -698,41 +698,45 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
       "Microsoft.NETCore.App >= 2.2.0",
-      "StringSimilarity >= 1.0.1"
+      "StringSimilarity >= 1.0.2"
     ]
   },
   "packageFolders": {
     "C:\\Users\\joelc\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\Misc\\StringSimilarity\\TestNetCore\\TestNetCore.csproj",
+      "projectUniqueName": "C:\\code\\Misc\\StringSimilarity\\TestNetCore\\TestNetCore.csproj",
       "projectName": "TestNetCore",
-      "projectPath": "C:\\Code\\Misc\\StringSimilarity\\TestNetCore\\TestNetCore.csproj",
+      "projectPath": "C:\\code\\Misc\\StringSimilarity\\TestNetCore\\TestNetCore.csproj",
       "packagesPath": "C:\\Users\\joelc\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\Misc\\StringSimilarity\\TestNetCore\\obj\\",
+      "outputPath": "C:\\code\\Misc\\StringSimilarity\\TestNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\joelc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.pkg.github.com/jchristn/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "projectReferences": {
-            "C:\\Code\\Misc\\StringSimilarity\\StringSimilarity\\StringSimilarity.csproj": {
-              "projectPath": "C:\\Code\\Misc\\StringSimilarity\\StringSimilarity\\StringSimilarity.csproj"
+            "C:\\code\\Misc\\StringSimilarity\\StringSimilarity\\StringSimilarity.csproj": {
+              "projectPath": "C:\\code\\Misc\\StringSimilarity\\StringSimilarity\\StringSimilarity.csproj"
             }
           }
         }
@@ -745,6 +749,7 @@
     },
     "frameworks": {
       "netcoreapp2.2": {
+        "targetAlias": "netcoreapp2.2",
         "dependencies": {
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
@@ -754,10 +759,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

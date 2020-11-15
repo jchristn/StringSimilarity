@@ -1,0 +1,9 @@
+C:\code\Misc\StringSimilarity\StringSimilarity\bin\Release\netcoreapp3.0\StringSimilarity.deps.json
+C:\code\Misc\StringSimilarity\StringSimilarity\bin\Release\netcoreapp3.0\StringSimilarity.dll
+C:\code\Misc\StringSimilarity\StringSimilarity\bin\Release\netcoreapp3.0\StringSimilarity.pdb
+C:\code\Misc\StringSimilarity\StringSimilarity\obj\Release\netcoreapp3.0\StringSimilarity.csprojAssemblyReference.cache
+C:\code\Misc\StringSimilarity\StringSimilarity\obj\Release\netcoreapp3.0\StringSimilarity.AssemblyInfoInputs.cache
+C:\code\Misc\StringSimilarity\StringSimilarity\obj\Release\netcoreapp3.0\StringSimilarity.AssemblyInfo.cs
+C:\code\Misc\StringSimilarity\StringSimilarity\obj\Release\netcoreapp3.0\StringSimilarity.csproj.CoreCompileInputs.cache
+C:\code\Misc\StringSimilarity\StringSimilarity\obj\Release\netcoreapp3.0\StringSimilarity.dll
+C:\code\Misc\StringSimilarity\StringSimilarity\obj\Release\netcoreapp3.0\StringSimilarity.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "StringSimilarity/1.0.2": {
+        "runtime": {
+          "StringSimilarity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StringSimilarity/1.0.2": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
