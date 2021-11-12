@@ -2,7 +2,6 @@ C:\code\Misc\StringSimilarity\StringSimilarity\bin\Release\net5.0\StringSimilari
 C:\code\Misc\StringSimilarity\StringSimilarity\bin\Release\net5.0\StringSimilarity.dll
 C:\code\Misc\StringSimilarity\StringSimilarity\bin\Release\net5.0\ref\StringSimilarity.dll
 C:\code\Misc\StringSimilarity\StringSimilarity\bin\Release\net5.0\StringSimilarity.pdb
-C:\code\Misc\StringSimilarity\StringSimilarity\obj\Release\net5.0\StringSimilarity.csprojAssemblyReference.cache
 C:\code\Misc\StringSimilarity\StringSimilarity\obj\Release\net5.0\StringSimilarity.GeneratedMSBuildEditorConfig.editorconfig
 C:\code\Misc\StringSimilarity\StringSimilarity\obj\Release\net5.0\StringSimilarity.AssemblyInfoInputs.cache
 C:\code\Misc\StringSimilarity\StringSimilarity\obj\Release\net5.0\StringSimilarity.AssemblyInfo.cs
@@ -10,3 +9,4 @@ C:\code\Misc\StringSimilarity\StringSimilarity\obj\Release\net5.0\StringSimilari
 C:\code\Misc\StringSimilarity\StringSimilarity\obj\Release\net5.0\StringSimilarity.dll
 C:\code\Misc\StringSimilarity\StringSimilarity\obj\Release\net5.0\ref\StringSimilarity.dll
 C:\code\Misc\StringSimilarity\StringSimilarity\obj\Release\net5.0\StringSimilarity.pdb
+C:\Code\Misc\StringSimilarity\StringSimilarity\obj\Release\net5.0\StringSimilarity.csproj.AssemblyReference.cache

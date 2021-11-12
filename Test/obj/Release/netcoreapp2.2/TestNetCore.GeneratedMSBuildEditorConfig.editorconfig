@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = TestNetCore
+build_property.ProjectDir = C:\Code\Misc\StringSimilarity\TestNetCore\

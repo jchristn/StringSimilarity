@@ -1,8 +1,0 @@
-d:\code\misc\StringSimilarity\Test\bin\Release\Test.exe.config
-d:\code\misc\StringSimilarity\Test\bin\Release\Test.exe
-d:\code\misc\StringSimilarity\Test\bin\Release\Test.pdb
-d:\code\misc\StringSimilarity\Test\bin\Release\StringSimilarity.dll
-d:\code\misc\StringSimilarity\Test\bin\Release\StringSimilarity.pdb
-d:\code\misc\StringSimilarity\Test\obj\Release\Test.csprojResolveAssemblyReference.cache
-d:\code\misc\StringSimilarity\Test\obj\Release\Test.exe
-d:\code\misc\StringSimilarity\Test\obj\Release\Test.pdb

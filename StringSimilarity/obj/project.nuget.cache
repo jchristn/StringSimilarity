@@ -1,14 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KrciqQ6XILX2nxEkfdhWJa6kx4KBfWJJacP/YWd6jtJ2owEc3wAI1OI7w96SRPnhyWVzPcdCwfldbPb3cwqA1A==",
+  "dgSpecHash": "TSC3Q8aBSmfws+v9kF8qVL0GxTO9IaEap+MNedrHCFC4Dhs7187hZ5nW3OngNddJVa/gyUXjjt67Pe/IzwwynQ==",
   "success": true,
-  "projectFilePath": "C:\\code\\Misc\\StringSimilarity\\StringSimilarity\\StringSimilarity.csproj",
-  "expectedPackageFiles": [
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\joelc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
-    "C:\\Users\\joelc\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
-    "C:\\Users\\joelc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Code\\Misc\\StringSimilarity\\StringSimilarity\\StringSimilarity.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

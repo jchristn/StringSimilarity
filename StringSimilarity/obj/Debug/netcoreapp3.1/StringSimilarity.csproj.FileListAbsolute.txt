@@ -1,0 +1,10 @@
+C:\Code\Misc\StringSimilarity\StringSimilarity\bin\Debug\netcoreapp3.1\StringSimilarity.deps.json
+C:\Code\Misc\StringSimilarity\StringSimilarity\bin\Debug\netcoreapp3.1\StringSimilarity.dll
+C:\Code\Misc\StringSimilarity\StringSimilarity\bin\Debug\netcoreapp3.1\StringSimilarity.pdb
+C:\Code\Misc\StringSimilarity\StringSimilarity\obj\Debug\netcoreapp3.1\StringSimilarity.csproj.AssemblyReference.cache
+C:\Code\Misc\StringSimilarity\StringSimilarity\obj\Debug\netcoreapp3.1\StringSimilarity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Misc\StringSimilarity\StringSimilarity\obj\Debug\netcoreapp3.1\StringSimilarity.AssemblyInfoInputs.cache
+C:\Code\Misc\StringSimilarity\StringSimilarity\obj\Debug\netcoreapp3.1\StringSimilarity.AssemblyInfo.cs
+C:\Code\Misc\StringSimilarity\StringSimilarity\obj\Debug\netcoreapp3.1\StringSimilarity.csproj.CoreCompileInputs.cache
+C:\Code\Misc\StringSimilarity\StringSimilarity\obj\Debug\netcoreapp3.1\StringSimilarity.dll
+C:\Code\Misc\StringSimilarity\StringSimilarity\obj\Debug\netcoreapp3.1\StringSimilarity.pdb

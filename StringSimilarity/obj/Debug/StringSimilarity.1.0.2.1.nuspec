@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>StringSimilarity</id>
+    <version>1.0.2.1</version>
+    <authors>Joel Christner</authors>
+    <licenseUrl>https://github.com/jchristn/StringSimilarity/blob/master/LICENSE.TXT</licenseUrl>
+    <projectUrl>https://github.com/jchristn/stringsimilarity</projectUrl>
+    <description>This class library calculates a score from 0 to 1 based on the similarity of two supplied strings.</description>
+    <releaseNotes>.NET 6 support</releaseNotes>
+    <copyright>(c)2021 Joel Christner</copyright>
+    <tags>string similarity scoring score</tags>
+    <repository type="Github" url="https://github.com/jchristn/stringsimilarity" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.5.2" />
+      <group targetFramework=".NETCoreApp3.1" />
+      <group targetFramework="net5.0" />
+      <group targetFramework="net6.0" />
+      <group targetFramework=".NETStandard2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Code\Misc\StringSimilarity\StringSimilarity\bin\Debug\net452\StringSimilarity.dll" target="lib\net452\StringSimilarity.dll" />
+    <file src="C:\Code\Misc\StringSimilarity\StringSimilarity\bin\Debug\net5.0\StringSimilarity.dll" target="lib\net5.0\StringSimilarity.dll" />
+    <file src="C:\Code\Misc\StringSimilarity\StringSimilarity\bin\Debug\net6.0\StringSimilarity.dll" target="lib\net6.0\StringSimilarity.dll" />
+    <file src="C:\Code\Misc\StringSimilarity\StringSimilarity\bin\Debug\netcoreapp3.1\StringSimilarity.dll" target="lib\netcoreapp3.1\StringSimilarity.dll" />
+    <file src="C:\Code\Misc\StringSimilarity\StringSimilarity\bin\Debug\netstandard2.1\StringSimilarity.dll" target="lib\netstandard2.1\StringSimilarity.dll" />
+  </files>
+</package>

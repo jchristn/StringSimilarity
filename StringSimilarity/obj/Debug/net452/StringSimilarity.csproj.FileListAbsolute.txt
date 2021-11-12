@@ -5,3 +5,5 @@ C:\code\misc\StringSimilarity\StringSimilarity\obj\Debug\net452\StringSimilarity
 C:\code\misc\StringSimilarity\StringSimilarity\obj\Debug\net452\StringSimilarity.AssemblyInfo.cs
 C:\code\misc\StringSimilarity\StringSimilarity\obj\Debug\net452\StringSimilarity.dll
 C:\code\misc\StringSimilarity\StringSimilarity\obj\Debug\net452\StringSimilarity.pdb
+C:\Code\Misc\StringSimilarity\StringSimilarity\obj\Debug\net452\StringSimilarity.csproj.AssemblyReference.cache
+C:\Code\Misc\StringSimilarity\StringSimilarity\obj\Debug\net452\StringSimilarity.GeneratedMSBuildEditorConfig.editorconfig
