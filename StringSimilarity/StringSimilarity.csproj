@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFrameworks>netstandard2.1;netcoreapp3.1;net452;net5.0;net6.0</TargetFrameworks>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>1.0.2.1</Version>
+    <Version>1.0.2.2</Version>
     <Authors>Joel Christner</Authors>
     <Description>This class library calculates a score from 0 to 1 based on the similarity of two supplied strings.</Description>
     <Copyright>(c)2021 Joel Christner</Copyright>
@@ -12,7 +12,9 @@
     <RepositoryType>Github</RepositoryType>
     <PackageLicenseUrl>https://github.com/jchristn/StringSimilarity/blob/master/LICENSE.TXT</PackageLicenseUrl>
     <PackageTags>string similarity scoring score</PackageTags>
-    <PackageReleaseNotes>.NET 6 support</PackageReleaseNotes>
+    <PackageReleaseNotes>Maintenance release: refreshed test dependencies, symbol package (snupkg) published</PackageReleaseNotes>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
   </PropertyGroup>
 
 </Project>

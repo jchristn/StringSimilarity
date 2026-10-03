@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>StringSimilarity</id>
+    <version>1.0.2.2</version>
+    <authors>Joel Christner</authors>
+    <licenseUrl>https://github.com/jchristn/StringSimilarity/blob/master/LICENSE.TXT</licenseUrl>
+    <projectUrl>https://github.com/jchristn/stringsimilarity</projectUrl>
+    <description>This class library calculates a score from 0 to 1 based on the similarity of two supplied strings.</description>
+    <releaseNotes>Maintenance release: refreshed test dependencies, symbol package (snupkg) published</releaseNotes>
+    <copyright>(c)2021 Joel Christner</copyright>
+    <tags>string similarity scoring score</tags>
+    <repository type="Github" url="https://github.com/jchristn/stringsimilarity" commit="a210e2c3d140ea2cc78e7bf0f23c1f5111a02c28" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.5.2" />
+      <group targetFramework="net5.0" />
+      <group targetFramework="net6.0" />
+      <group targetFramework=".NETCoreApp3.1" />
+      <group targetFramework=".NETStandard2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/joelchristner/Code/StringSimilarity/StringSimilarity/bin/Debug/net452/StringSimilarity.pdb" target="lib/net452/StringSimilarity.pdb" />
+    <file src="/Users/joelchristner/Code/StringSimilarity/StringSimilarity/bin/Debug/net5.0/StringSimilarity.pdb" target="lib/net5.0/StringSimilarity.pdb" />
+    <file src="/Users/joelchristner/Code/StringSimilarity/StringSimilarity/bin/Debug/net6.0/StringSimilarity.pdb" target="lib/net6.0/StringSimilarity.pdb" />
+    <file src="/Users/joelchristner/Code/StringSimilarity/StringSimilarity/bin/Debug/netcoreapp3.1/StringSimilarity.pdb" target="lib/netcoreapp3.1/StringSimilarity.pdb" />
+    <file src="/Users/joelchristner/Code/StringSimilarity/StringSimilarity/bin/Debug/netstandard2.1/StringSimilarity.pdb" target="lib/netstandard2.1/StringSimilarity.pdb" />
+  </files>
+</package>

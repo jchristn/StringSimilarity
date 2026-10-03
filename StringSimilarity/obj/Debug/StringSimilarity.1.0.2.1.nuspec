@@ -10,20 +10,20 @@
     <releaseNotes>.NET 6 support</releaseNotes>
     <copyright>(c)2021 Joel Christner</copyright>
     <tags>string similarity scoring score</tags>
-    <repository type="Github" url="https://github.com/jchristn/stringsimilarity" />
+    <repository type="Github" url="https://github.com/jchristn/stringsimilarity" commit="a210e2c3d140ea2cc78e7bf0f23c1f5111a02c28" />
     <dependencies>
       <group targetFramework=".NETFramework4.5.2" />
-      <group targetFramework=".NETCoreApp3.1" />
       <group targetFramework="net5.0" />
       <group targetFramework="net6.0" />
+      <group targetFramework=".NETCoreApp3.1" />
       <group targetFramework=".NETStandard2.1" />
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Code\Misc\StringSimilarity\StringSimilarity\bin\Debug\net452\StringSimilarity.dll" target="lib\net452\StringSimilarity.dll" />
-    <file src="C:\Code\Misc\StringSimilarity\StringSimilarity\bin\Debug\net5.0\StringSimilarity.dll" target="lib\net5.0\StringSimilarity.dll" />
-    <file src="C:\Code\Misc\StringSimilarity\StringSimilarity\bin\Debug\net6.0\StringSimilarity.dll" target="lib\net6.0\StringSimilarity.dll" />
-    <file src="C:\Code\Misc\StringSimilarity\StringSimilarity\bin\Debug\netcoreapp3.1\StringSimilarity.dll" target="lib\netcoreapp3.1\StringSimilarity.dll" />
-    <file src="C:\Code\Misc\StringSimilarity\StringSimilarity\bin\Debug\netstandard2.1\StringSimilarity.dll" target="lib\netstandard2.1\StringSimilarity.dll" />
+    <file src="/Users/joelchristner/Code/StringSimilarity/StringSimilarity/bin/Debug/net452/StringSimilarity.dll" target="lib/net452/StringSimilarity.dll" />
+    <file src="/Users/joelchristner/Code/StringSimilarity/StringSimilarity/bin/Debug/net5.0/StringSimilarity.dll" target="lib/net5.0/StringSimilarity.dll" />
+    <file src="/Users/joelchristner/Code/StringSimilarity/StringSimilarity/bin/Debug/net6.0/StringSimilarity.dll" target="lib/net6.0/StringSimilarity.dll" />
+    <file src="/Users/joelchristner/Code/StringSimilarity/StringSimilarity/bin/Debug/netcoreapp3.1/StringSimilarity.dll" target="lib/netcoreapp3.1/StringSimilarity.dll" />
+    <file src="/Users/joelchristner/Code/StringSimilarity/StringSimilarity/bin/Debug/netstandard2.1/StringSimilarity.dll" target="lib/netstandard2.1/StringSimilarity.dll" />
   </files>
 </package>

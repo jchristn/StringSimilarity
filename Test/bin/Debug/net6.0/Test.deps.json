@@ -8,15 +8,18 @@
     ".NETCoreApp,Version=v6.0": {
       "Test/1.0.0": {
         "dependencies": {
-          "StringSimilarity": "1.0.2.1"
+          "StringSimilarity": "1.0.2.2"
         },
         "runtime": {
           "Test.dll": {}
         }
       },
-      "StringSimilarity/1.0.2.1": {
+      "StringSimilarity/1.0.2.2": {
         "runtime": {
-          "StringSimilarity.dll": {}
+          "StringSimilarity.dll": {
+            "assemblyVersion": "1.0.2.2",
+            "fileVersion": "1.0.2.2"
+          }
         }
       }
     }
@@ -27,7 +30,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "StringSimilarity/1.0.2.1": {
+    "StringSimilarity/1.0.2.2": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "TSC3Q8aBSmfws+v9kF8qVL0GxTO9IaEap+MNedrHCFC4Dhs7187hZ5nW3OngNddJVa/gyUXjjt67Pe/IzwwynQ==",
+  "dgSpecHash": "n6RY3+RDxCk=",
   "success": true,
-  "projectFilePath": "C:\\Code\\Misc\\StringSimilarity\\StringSimilarity\\StringSimilarity.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/joelchristner/Code/StringSimilarity/StringSimilarity/StringSimilarity.csproj",
+  "expectedPackageFiles": [
+    "/Users/joelchristner/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/Users/joelchristner/.nuget/packages/microsoft.netframework.referenceassemblies.net452/1.0.3/microsoft.netframework.referenceassemblies.net452.1.0.3.nupkg.sha512",
+    "/Users/joelchristner/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/joelchristner/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/joelchristner/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/joelchristner/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/joelchristner/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/joelchristner/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }

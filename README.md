@@ -13,9 +13,11 @@ StringSimilarity targets .NET Standard 2.1, .NET Core 3.1, .NET Framework 4.5.2,
 
 First things first - do you need help or have feedback?  Contact me at joel dot christner at gmail dot com or file an issue here!
 
-## New in v1.0.1
+## New in v1.0.2.2
 
-- Retarget to .NET Core 2.0 and .NET Framework 4.5.2
+- Maintenance release; library behavior is unchanged
+- Symbol package (`.snupkg`) now published alongside the NuGet package
+- Test dependencies refreshed (Touchstone 0.2.0, xUnit runner 4.0.0, NUnit 5.0.0, Microsoft.NET.Test.Sdk 18.10.1, coverlet 10.1.0)
  
 ## Score Computation
 
@@ -52,6 +54,4 @@ The `Test` project is an interactive console application for trying the library 
 
 ## Version History
 
-Notes from previous versions (starting with v1.0.0) will be moved here.
-v1.0.0
-- First release
+Refer to [CHANGELOG.md](CHANGELOG.md) for the full version history.
