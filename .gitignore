@@ -38,3 +38,16 @@ Thumbs.db
 ##########
 .vs/
 
+
+# Test project build output #
+#############################
+Test.Shared/bin/
+Test.Shared/obj/
+Test.Automated/bin/
+Test.Automated/obj/
+Test.Xunit/bin/
+Test.Xunit/obj/
+Test.Nunit/bin/
+Test.Nunit/obj/
+TestResults/
+results.json

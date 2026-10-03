@@ -2,7 +2,7 @@
 
 This class library calculates a score from 0 to 1 based on the similarity of two supplied strings.
 
-Effective v1.0.1, StringSimilarity is now targeted to both .NET Core 2.0 and .NET Framework 4.5.2.
+StringSimilarity targets .NET Standard 2.1, .NET Core 3.1, .NET Framework 4.5.2, .NET 5.0, and .NET 6.0.
 
 [![][nuget-img]][nuget]
 
@@ -21,11 +21,15 @@ First things first - do you need help or have feedback?  Contact me at joel dot 
 
 - If one string is null/empty and the other is not, the score is 0
 - If both strings are null/empty, the score is 1
+- If both strings are equal, the score is 1
 - Otherwise, a length score is multiplied by a character match score, where length score = (min / max) and character match score is (num matching / total)
+  - The character match score compares the sets of distinct characters in each string; total is the number of distinct characters in whichever string has more
+  - Comparison is case-sensitive and ordinal, so `ABC` versus `abc` scores 0
+  - Character order and frequency are not considered, so anagrams of the same length (for example `listen` and `silent`) score 1
 
 ## Example
 
-Refer to the Test project for an example.
+Refer to the Test project for an interactive example.
 ```csharp
 using Similarity;
 
@@ -36,6 +40,16 @@ string str2 = Console.ReadLine();
 Console.WriteLine("Score    : " + StringSimilarity.Calculate(str1, str2));
 ```
  
+## Running the Tests
+
+Automated tests are built with [Touchstone](https://github.com/jchristn/touchstone).  All test cases live in `Test.Shared` and are executed by three runners:
+
+- `Test.Automated` - console runner (`dotnet run --project Test.Automated -f net8.0`, add `-- --results results.json` to export JSON)
+- `Test.Xunit` - xUnit runner (`dotnet test Test.Xunit`)
+- `Test.Nunit` - NUnit runner (`dotnet test Test.Nunit`)
+
+The `Test` project is an interactive console application for trying the library by hand.
+
 ## Version History
 
 Notes from previous versions (starting with v1.0.0) will be moved here.
