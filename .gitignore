@@ -51,3 +51,7 @@ Test.Nunit/bin/
 Test.Nunit/obj/
 TestResults/
 results.json
+
+# Build output
+[Bb]in/
+[Oo]bj/
