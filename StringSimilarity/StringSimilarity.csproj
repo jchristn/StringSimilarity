@@ -1,20 +1,32 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>netstandard2.1;netcoreapp3.1;net452;net5.0;net6.0</TargetFrameworks>
+    <TargetFrameworks>netstandard2.0;netstandard2.1;net462;net48;net8.0;net10.0</TargetFrameworks>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>1.0.2.2</Version>
+    <Version>1.0.3</Version>
     <Authors>Joel Christner</Authors>
     <Description>This class library calculates a score from 0 to 1 based on the similarity of two supplied strings.</Description>
-    <Copyright>(c)2021 Joel Christner</Copyright>
+    <Copyright>(c)2026 Joel Christner</Copyright>
     <PackageProjectUrl>https://github.com/jchristn/stringsimilarity</PackageProjectUrl>
     <RepositoryUrl>https://github.com/jchristn/stringsimilarity</RepositoryUrl>
-    <RepositoryType>Github</RepositoryType>
-    <PackageLicenseUrl>https://github.com/jchristn/StringSimilarity/blob/master/LICENSE.TXT</PackageLicenseUrl>
+    <RepositoryType>git</RepositoryType>
     <PackageTags>string similarity scoring score</PackageTags>
     <PackageReleaseNotes>Maintenance release: refreshed test dependencies, symbol package (snupkg) published</PackageReleaseNotes>
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <EmbedUntrackedSources>true</EmbedUntrackedSources>
+    <ContinuousIntegrationBuild Condition="'$(CI)' == 'true'">true</ContinuousIntegrationBuild>
+    <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageIcon>icon.png</PackageIcon>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\LICENSE.md" Pack="true" PackagePath="\" Visible="false" />
+    <None Include="..\README.md" Pack="true" PackagePath="\" Visible="false" />
+    <None Include="..\assets\icon.png" Pack="true" PackagePath="\" Visible="false" />
+  </ItemGroup>
 
 </Project>
